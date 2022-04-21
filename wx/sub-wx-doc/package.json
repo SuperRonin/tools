@@ -1,0 +1,13 @@
+{
+  "name": "sub-wx-doc",
+  "version": "0.0.1",
+  "description": "Script for subscribing to wechat document update",
+  "main": "index.js",
+  "scripts": {},
+  "author": "xuexingwei20@163.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
